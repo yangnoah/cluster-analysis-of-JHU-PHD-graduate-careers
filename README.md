@@ -16,4 +16,16 @@ This analysis examines if PHD programs can be clustered together based on simila
 8. The solver function was then used to change the three nodes in order to minimize the sum of differences of squares. 
 9. The data was then sorted by cluster number to group each cluster together.
 
-![alt text](https://github.com/yangnoah/analysis-of-baltimore-city-government-salary/blob/master/Graph.JPG)
+![alt text](https://github.com/yangnoah/cluster-analysis-of-JHU-PHD-graduate-careers/blob/master/Program%20Cluster.JPG)
+
+Cluster 1: PhD programs in the fields of biology and human anatomy (memorization heavy) 
+Cluster 2: PhD programs with more of a quantitative focus such as engineering, statistics, and biomolecule interation (more problem-solving)
+Cluster 3: Not really related to each other
+
+This anaylsis shows that there are really two clusters of programs when differentiated by the career types 10 years afterwards. Since Cluster 2 has a more engineering and math focus, graduates in it would likely go to different sectors than those in Cluster 1 which has a more biology and anatomy focus.
+
+For PhD students who are thinking about switching programs and wondering how it might affect their career in 10 years, this analysis shows them programs that would offer similar career trajectories. A person studying a program in Cluster 1 and like his/her career path should switch into a program in that cluster and not one in Cluster 2. 
+
+This information can be used in practice to host career events/speaker sessions and have one session for each cluster since that cluster will be looking at similar career endpoints. 
+
+For further analysis, data regarding career earnings, stress, growth, and relocation ease can be used to allow students to see what kind of programs offer similar quality of life. 
